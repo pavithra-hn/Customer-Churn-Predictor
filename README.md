@@ -75,11 +75,16 @@ The application uses the Telco Customer Churn dataset with features including:
 - Internet Service: DSL
 - Additional Services: Multiple (Online Security, Tech Support, etc.)
 
+- ![Screenshot 2025-06-23 205947](https://github.com/user-attachments/assets/10a6ac42-ea7e-40cf-8299-20c5114a0ff6)
+
 **Output:**
 - **Prediction**: WILL NOT CHURN ✅
 - **Confidence**: 89%
 - **Top Factor**: Contract type (Two year)
 - **Risk Analysis**: Low risk profile with good retention indicators
+
+- ![Screenshot 2025-06-23 210012](https://github.com/user-attachments/assets/ee9f7163-1b7c-42ec-977a-e115036275a3)
+
 
 ## 🛠️ Model Performance
 
