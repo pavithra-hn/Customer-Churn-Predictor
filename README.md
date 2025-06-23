@@ -102,7 +102,7 @@ customer-churn-predictor/
 ├── requirements.txt       # Python dependencies
 ├── churn_model.pkl       # Trained model (generated)
 ├── README.md             # This file
-└── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset (optional)
+└── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
 ```
 
 ## 🌐 Deployment
@@ -174,19 +174,7 @@ streamlit run app.py
 4. Push to branch (`git push origin feature/new-feature`)
 5. Create Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-If you encounter any issues:
-1. Check that all dependencies are installed correctly
-2. Ensure `churn_model.pkl` exists (run `model_training.py` if missing)
-3. Verify Python version compatibility (3.8+)
-4. Open an issue on GitHub with error details
-
 ---
 
-**Live Demo**: [Your Streamlit Cloud URL]
+**Live Demo**: [https://sheshu.streamlit.app/]
 **Video Demo**: [Your demo video URL]
